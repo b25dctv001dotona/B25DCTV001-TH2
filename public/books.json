@@ -1,0 +1,14 @@
+[
+ {"id":"b01","title":"Nhà giả kim","author":"Paulo Coelho","genre":"Văn học","year":1988,"color":"#c8954e","motif":"sun","note":"Đi tìm kho báu, tìm thấy chính mình."},
+ {"id":"b02","title":"Tôi thấy hoa vàng trên cỏ xanh","author":"Nguyễn Nhật Ánh","genre":"Văn học","year":2010,"color":"#6b8558","motif":"flower","note":"Một miền tuổi thơ trong trẻo và dịu dàng."},
+ {"id":"b03","title":"Sapiens","author":"Yuval Noah Harari","genre":"Khoa học","year":2011,"color":"#b5674f","motif":"orbit","note":"Lược sử về hành trình của loài người."},
+ {"id":"b04","title":"Đắc nhân tâm","author":"Dale Carnegie","genre":"Kỹ năng sống","year":1936,"color":"#537b82","motif":"stairs","note":"Bắt đầu kết nối từ sự thấu hiểu."},
+ {"id":"b05","title":"Hoàng tử bé","author":"Antoine de Saint-Exupéry","genre":"Văn học","year":1943,"color":"#647b9c","motif":"sun","note":"Những điều quan trọng chỉ trái tim mới thấy."},
+ {"id":"b06","title":"Vũ trụ trong vỏ hạt dẻ","author":"Stephen Hawking","genre":"Khoa học","year":2001,"color":"#6c6589","motif":"orbit","note":"Mở một cánh cửa nhìn ra vũ trụ."},
+ {"id":"b07","title":"Tuổi trẻ đáng giá bao nhiêu?","author":"Rosie Nguyễn","genre":"Kỹ năng sống","year":2016,"color":"#b18c59","motif":"stairs","note":"Học, làm và đi để hiểu mình hơn."},
+ {"id":"b08","title":"Dế Mèn phiêu lưu ký","author":"Tô Hoài","genre":"Văn học","year":1941,"color":"#698675","motif":"flower","note":"Một chuyến phiêu lưu không bao giờ cũ."},
+ {"id":"b09","title":"Lược sử thời gian","author":"Stephen Hawking","genre":"Khoa học","year":1988,"color":"#536572","motif":"orbit","note":"Từ vụ nổ lớn đến những hố đen."},
+ {"id":"b10","title":"Bước chậm lại giữa thế gian vội vã","author":"Hae Min","genre":"Kỹ năng sống","year":2012,"color":"#9a7366","motif":"flower","note":"Dành một khoảng lặng cho chính mình."},
+ {"id":"b11","title":"Mắt biếc","author":"Nguyễn Nhật Ánh","genre":"Văn học","year":1990,"color":"#4c756e","motif":"sun","note":"Một câu chuyện của ký ức và thương mến."},
+ {"id":"b12","title":"Tư duy nhanh và chậm","author":"Daniel Kahneman","genre":"Kỹ năng sống","year":2011,"color":"#b68d55","motif":"stairs","note":"Hiểu cách chúng ta suy nghĩ và lựa chọn."}
+]
